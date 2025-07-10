@@ -9,6 +9,6 @@ interface UserProfile {
 let user: UserProfile = {
   id: "123",
   preferences: {
-    theme: "blue",
+    theme: "dark",
   },
 };
